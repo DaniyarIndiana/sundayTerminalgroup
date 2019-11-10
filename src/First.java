@@ -1,5 +1,6 @@
 public class First {
-    void method (){
+    void method() {
+        System.out.println("Hello smart guy");
         System.out.println("Hello smart guy");
     }
 }
